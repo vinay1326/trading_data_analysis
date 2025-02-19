@@ -1,7 +1,5 @@
-Sure! Here’s the **README** for **Trading Results Analysis**—just copy and paste it into your GitHub repository.  
 
 ---
-
 # **📊 Trading Results Analysis – Algorithmic Trading Data Analysis**  
 
 ## **📌 Project Overview**  
@@ -61,4 +59,4 @@ python trading_analysis.py
 
 ---
 
-**Let me know when you're ready for the next README!** 😊🚀
+
